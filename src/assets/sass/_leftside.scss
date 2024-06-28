@@ -1,0 +1,127 @@
+#left-side-width {
+
+    .one-section {
+        ul {
+            display: flex;
+            gap: 4px;
+            padding: 0;
+
+            a {
+                text-decoration: none;
+                font-size: 14px;
+                color: #767676;
+            }
+        }
+    }
+
+    #left-side-elements {
+        .list-elemets {
+            .one-list {
+
+                ul {
+                    padding: 0;
+
+                    a {
+                        text-decoration: none;
+                        font-size: 17px;
+                        color: #767676;
+                    }
+                }
+
+                .one-list-elements-font-size {
+                    font-size: 15px;
+                }
+            }
+
+            .two-list {
+                .one-list-elements-font-size {
+                    font-size: 15px;
+                    color: #a3a3a3;
+                }
+            }
+        }
+
+        .list-elemets-secondary {
+            .one-list-elements-font-size {
+                font-size: 15px;
+                color: black;
+                letter-spacing: 1px;
+            }
+
+            ul {
+                padding: 0;
+
+                a {
+                    text-decoration: none;
+                    font-size: 17px;
+                    color: #222222;
+                }
+            }
+        }
+
+        .title-product {
+            position: relative;
+            line-height: 3em;
+            font-weight: 550;
+        }
+
+        .title-product::before {
+            content: "";
+            position: absolute;
+            bottom: 0;
+            background-color: black;
+            width: 10%;
+            height: 2.5px;
+        }
+    }
+}
+
+.filter-button {
+    button {
+        padding: 0 30px;
+        line-height: 35px;
+        margin: 0 5px 5px 0;
+        float: right;
+        font-size: 14px;
+        border-radius: 0;
+        text-transform: capitalize;
+        background: #333;
+        color: white;
+    }
+}
+
+.one-list-elements-font-size {
+    font-size: 14px;
+    color: #a3a3a3;
+    text-decoration: none;
+}
+
+#tags {
+    button {
+        font-size: 15px !important;
+        line-height: 1.5;
+        display: inline-block;
+        text-transform: capitalize;
+        font-family: Poppins, sans-serif;
+        margin-bottom: 10px;
+        font-size: 13px !important;
+        padding: 5px 9px;
+        margin-right: 8px;
+        border: 1px solid #eee;
+        color: #888888;
+        transition: 0.3s;
+    }
+
+    button:hover {
+        background: black;
+        color: white;
+    }
+
+}
+
+
+@media (max-width:768px) {
+    #left-side-width {
+        width: 100%;
+    }
+}

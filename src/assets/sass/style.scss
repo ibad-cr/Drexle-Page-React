@@ -1,0 +1,84 @@
+body,
+* {
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+}
+
+.Dark {
+    background-color: rgb(30, 39, 51);
+    color: white;
+
+    a {
+        color: #ffffff !important;
+    }
+
+    li {
+        color: #ffffff !important;
+    }
+
+    h5 {
+        color: #7b7b7b !important;
+    }
+
+    button {
+        background: none;
+        color: white;
+    }
+
+    .search-button {
+        background-color: black;
+    }
+
+    #search-products {
+        color: black !important;
+    }
+
+    .add-to-card {
+        color: white;
+    }
+
+    .star-icon {
+        i {
+            color: white;
+        }
+    }
+
+
+    h6 {
+        color: white;
+
+    }
+
+    strong {
+        color: white;
+    }
+
+    .drexle-image {
+        filter: invert(100%);
+    }
+
+    p {
+        color: white;
+    }
+}
+
+
+.Light {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.Light a {
+    color: #000000;
+}
+
+
+
+
+@import 'navbar';
+@import 'home';
+@import 'carousel';
+@import 'footer';
+@import 'leftside';
+@import 'rightside';
+@import 'singleCard';

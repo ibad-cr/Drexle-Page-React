@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "image": "https://demo.lion-themes.net/drexel/wp-content/uploads/2017/06/16-370x459.jpg",
+        "title": "Stain-Resistant Sofa Cover",
+        "price": 200.00,
+        "category": "Modern"
+    },
+    {
+        "id": 2,
+        "image": "https://demo.lion-themes.net/drexel/wp-content/uploads/2017/06/02.jpg",
+        "title": "Smart Home Security Camera System",
+        "price": 200.00,
+        "category": "Modern"
+    },
+    {
+        "id": 3,
+        "image": "https://demo.lion-themes.net/drexel/wp-content/uploads/2017/06/17-370x459.jpg",
+        "title": "Eco-Friendly Kitchen Utensil Set",
+        "price": 200.00,
+        "category": "Modern"
+    },
+    {
+        "id": 4,
+        "image": "https://demo.lion-themes.net/drexel/wp-content/uploads/2017/06/19-370x459.jpg",
+        "title": "Luxurious Egyptian Cotton Bedsheets",
+        "price": 200.00,
+        "category": "Modern"
+    },
+    {
+        "id": 5,
+        "image": "https://demo.lion-themes.net/drexel/wp-content/uploads/2017/06/22-370x459.jpg",
+        "title": "Aromatherapy Essential Oil Diffuser",
+        "price": 200.00,
+        "category": "Modern"
+    },
+    {
+        "id": 6,
+        "image": "https://demo.lion-themes.net/drexel/wp-content/uploads/2017/06/01-370x459.jpg",
+        "title": "Space-Saving Closet Organizer Kit",
+        "price": 200.00,
+        "category": "Elegant"
+    },
+    {
+        "id": 7,
+        "image": "https://demo.lion-themes.net/drexel/wp-content/uploads/2017/06/03-370x459.jpg",
+        "title": "Energy-Efficient LED Desk Lamp",
+        "price": 200.00,
+        "category": "Elegant"
+    },
+    {
+        "id": 8,
+        "image": "https://demo.lion-themes.net/drexel/wp-content/uploads/2017/06/04-370x459.jpg",
+        "title": "Rustic Ceramic Dinnerware Set",
+        "price": 200.00,
+        "category": "Elegant"
+    },
+    {
+        "id": 9,
+        "image": "https://demo.lion-themes.net/drexel/wp-content/uploads/2017/06/05-370x459.jpg",
+        "title": "Ultra-Soft Microfiber Bath Towel Collection",
+        "price": 200.00,
+        "category": "Elegant"
+    },
+    {
+        "id": 10,
+        "image": "https://demo.lion-themes.net/drexel/wp-content/uploads/2017/06/07-370x459.jpg",
+        "title": "Sleek Stainless Steel Trash Can",
+        "price": 200.00,
+        "category": "Elegant"
+    },
+    {
+        "id": 11,
+        "image": "https://demo.lion-themes.net/drexel/wp-content/uploads/2017/06/09-370x459.jpg",
+        "title": "Stain-Resistant Sofa Cover",
+        "price": 200.00,
+        "category": "Coffee "
+    },
+    {
+        "id": 12,
+        "image": "https://demo.lion-themes.net/drexel/wp-content/uploads/2017/06/12-370x459.jpg",
+        "title": "Smart Home Security Camera System",
+        "price": 200.00,
+        "category": "Coffee "
+    },
+    {
+        "id": 13,
+        "image": "https://demo.lion-themes.net/drexel/wp-content/uploads/2017/06/13-370x459.jpg",
+        "title": "Eco-Friendly Kitchen Utensil Set",
+        "price": 200.00,
+        "category": "Coffee "
+    },
+    {
+        "id": 14,
+        "image": "https://demo.lion-themes.net/drexel/wp-content/uploads/2017/06/08-370x459.jpg",
+        "title": "Luxurious Egyptian Cotton Bedsheets",
+        "price": 200.00,
+        "category": "Coffee "
+    },
+    {
+        "id": 15,
+        "image": "https://demo.lion-themes.net/drexel/wp-content/uploads/2017/06/16-370x459.jpg",
+        "title": "Aromatherapy Essential Oil Diffuser",
+        "price": 200.00,
+        "category": "Coffee "
+    }
+]

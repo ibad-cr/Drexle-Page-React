@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "image": "https://demo.lion-themes.net/drexel/wp-content/uploads/2017/06/09-1.jpg",
+        "title": "Luxury Dining Table Set",
+        "details": "Upgrade your dining room with this luxurious dining table set. Crafted from premium materials, this set features an exquisite table and comfortable chairs. The elegant design and fine craftsmanship add sophistication to any dining space. Whether it's a family dinner or a formal gathering, this set creates a memorable dining experience."
+    },
+    {
+        "id": 2,
+        "image": "https://demo.lion-themes.net/drexel/wp-content/uploads/2017/06/04-1.jpg",
+        "title": "Modern Sofa",
+        "details": "Transform your living room with this modern sofa. Designed for both style and comfort, this sofa features sleek lines and plush cushions. The high-quality fabric upholstery ensures durability and easy maintenance. Whether you're relaxing with family or entertaining guests, this sofa adds elegance to any space."
+    },
+    {
+        "id": 3,
+        "image": "https://demo.lion-themes.net/drexel/wp-content/uploads/2017/06/03-1.jpg",
+        "title": "Elegant Bed Frame",
+        "details": "Create a cozy retreat with this elegant bed frame. Crafted from solid wood, this bed frame combines timeless design with durability. The sophisticated headboard adds a touch of luxury to your bedroom. Whether it's a peaceful night's sleep or lazy weekend mornings, this bed frame offers comfort and style."
+    },
+    {
+        "id": 4,
+        "image": "https://demo.lion-themes.net/drexel/wp-content/uploads/2017/06/01-1.jpg",
+        "title": "Classic Coffee Table",
+        "details": "Enhance your living room with this classic coffee table. Made from sturdy wood, this table features a timeless design and rich finish. The spacious surface provides ample room for drinks, books, and decor. Whether you're enjoying a cozy evening or entertaining guests, this coffee table adds charm to any space."
+    },
+    {
+        "id": 5,
+        "image": "https://demo.lion-themes.net/drexel/wp-content/uploads/2017/06/07-1.jpg",
+        "title": "Cozy Armchair",
+        "details": "Add comfort and style to your home with this cozy armchair. Upholstered in soft fabric, this armchair offers a relaxing spot for reading or lounging. The sturdy construction ensures durability, while the modern design complements any decor. Whether it's a quiet corner or a cozy nook, this armchair is a perfect addition to your space."
+    },
+    {
+        "id": 6,
+        "image": "https://demo.lion-themes.net/drexel/wp-content/uploads/2017/06/02-1.jpg",
+        "title": "Chic Side Table",
+        "details": "Complete your living room ensemble with this chic side table. Featuring a sleek design and versatile functionality, this table is perfect for displaying decor or holding beverages. The compact size makes it ideal for small spaces. Whether it's next to a sofa or beside a bed, this side table adds style and convenience to any room."
+    },
+    {
+        "id": 7,
+        "image": "https://demo.lion-themes.net/drexel/wp-content/uploads/2017/06/07-1.jpg",
+        "title": "Modern Bookshelf",
+        "details": "Organize your books and display your favorite items with this modern bookshelf. Crafted from durable materials, this bookshelf features clean lines and a minimalist design. The spacious shelves offer ample storage space for books, decor, and more. Whether it's in a living room, study, or home office, this bookshelf adds functionality and style to any space."
+    }
+]
